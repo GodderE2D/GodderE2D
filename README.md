@@ -16,7 +16,7 @@ It's currently dead right now, so if you could check it out, it would mean a lot
 ### Email Addresses
 Dedicated to the people that would like to email me for some reason.
 
-<p style="color: #7289da;">ℹ️ Response time: ~24 hours | max 48 hours</p>
+ℹ️ Response time: ~24 hours | max 48 hours
 
 * main@godder.ga: Used for all contact with an online relationship, such as social platforms
 * irl@godder.ga: Used for contact if I met you in real life
@@ -26,8 +26,7 @@ Dedicated to the people that would like to email me for some reason.
 * e2dbusiness@outlook.com: YouTube business email
 
 ### Online Projects
-If you would like to check out my work, feel free to do so!
-
+If you would like to check out my work, feel free to do so!  
 By the way, there are tons of servers I own but are not listed here! The sad thing is, they are not finished and have near-zero members.
 
 #### Discord Servers
@@ -42,16 +41,16 @@ By the way, there are tons of servers I own but are not listed here! The sad thi
 ### Social Platforms
 I'm on a lot of these. I just realised that...
 
-Discord: [GodderE2D]#7290 (`525248423310524416`) [(dsc.bio)](https://dsc.bio/godder)
-[Twitter](https://twitter.com/TheE2D): @TheE2D
-[Instagram](https://instagram.com/thee2d): @thee2d
-[YouTube](https://www.youtube.com/channel/UC4mQ0olYYYDeOlgSNKTnPcQ): [GodderE2D]
-[Reddit](https://reddit.com/u/_-GODDERE2D-_): _-GODDERE2D-_
-[Spotify](https://open.spotify.com/user/8hkx6ip5bkeqbhw0xlb0a9gdp): GodderE2D
-[Steam](https://steamcommunity.com/id/goddere2d): GodderE2D
-[Twitch](https://twitch.tv/GodderE2D): GodderE2D
-[Medium](https://goddere2d.medium.com): GodderE2D
-[GitHub](https://github.com/GodderE2D): GodderE2D
+* Discord: [GodderE2D]#7290 (`525248423310524416`) [\(dsc.bio\)](https://dsc.bio/godder)
+* [Twitter](https://twitter.com/TheE2D): @TheE2D
+* [Instagram](https://instagram.com/thee2d): @thee2d
+* [YouTube](https://www.youtube.com/channel/UC4mQ0olYYYDeOlgSNKTnPcQ): [GodderE2D]
+* [Reddit](https://reddit.com/u/_-GODDERE2D-_): _-GODDERE2D-_
+* [Spotify](https://open.spotify.com/user/8hkx6ip5bkeqbhw0xlb0a9gdp): GodderE2D
+* [Steam](https://steamcommunity.com/id/goddere2d): GodderE2D
+* [Twitch](https://twitch.tv/GodderE2D): GodderE2D
+* [Medium](https://goddere2d.medium.com): GodderE2D
+* [GitHub](https://github.com/GodderE2D): GodderE2D
 
 ### Recommendations
 

@@ -1,13 +1,13 @@
-# [[GodderE2D]](https://www.godder.ga)
+# [[GodderE2D]](https://www.godder.xyz)
 **The god of the god. Nice to meet you! I'm just a person on the internet trying to figure out what to do.**  
 He/Him | 🇦🇺
 
 ## Resources
 
-**For more information, please check out my [website](https://www.godder.ga).**
+**For more information, please check out my [website](https://www.godder.xyz).**
 
 ### Advertisement
-Have time? Please check out Wolvesville Utopium, a simulation game based off Wolvesville, an online party game.
+Have time? Please check out [Wolvesville Utopium](https://wolvesville.utopium.xyz), a simulation game based off [Wolvesville](https://app.wolvesville.com), an online party game.
 
 However, Wolvesville Utopium is fully simulated on Discord! You can play with your friends at anytime, anywhere soon™!
 
@@ -45,7 +45,7 @@ I'm on a lot of these. I just realised that...
 * [Twitter](https://twitter.com/TheE2D): @TheE2D
 * [Instagram](https://instagram.com/thee2d): @thee2d
 * [YouTube](https://www.youtube.com/channel/UC4mQ0olYYYDeOlgSNKTnPcQ): [GodderE2D]
-* [Reddit](https://reddit.com/u/_-GODDERE2D-_): _-GODDERE2D-_
+* [Reddit](https://reddit.com/u/_-GODDERE2D-_): \_-GODDERE2D-\_
 * [Spotify](https://open.spotify.com/user/8hkx6ip5bkeqbhw0xlb0a9gdp): GodderE2D
 * [Steam](https://steamcommunity.com/id/goddere2d): GodderE2D
 * [Twitch](https://twitch.tv/GodderE2D): GodderE2D

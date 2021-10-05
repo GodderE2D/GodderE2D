@@ -18,10 +18,10 @@ Dedicated to the people that would like to email me for some reason.
 
 ℹ️ Response time: ~24 hours | max 48 hours
 
-* main@godder.ga: Used for all contact with an online relationship, such as social platforms
-* irl@godder.ga: Used for contact if I met you in real life
-* support@godder.ga: Used for online support if a social platform is not the best for support
-* ama@godder.ga: Ask me anything! I'll reply to you with an answer (if appropriate)
+* main@godder.xyz: Used for all contact with an online relationship, such as social platforms
+* irl@godder.xyz: Used for contact if I met you in real life
+* support@godder.xyz: Used for online support if a social platform is not the best for support
+* ama@godder.xyz: Ask me anything! I'll reply to you with an answer (if appropriate)
 * godderseesyou@gmail.com: Use this email address if the main one is not working
 * e2dbusiness@outlook.com: YouTube business email
 

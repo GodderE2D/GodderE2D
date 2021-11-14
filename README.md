@@ -91,3 +91,11 @@ I'm on a lot of these. I just realised that...
 ###### **All of the above** offers a premium subscription, however, I am reviewing the free tier of the service.
 
 </details>
+
+<details>
+<summary>
+Show/hide metrics
+</summary>
+
+![Metrics](https://github.com/GodderE2D/GodderE2D/blob/main/github-metrics.svg)
+</details>

@@ -1810,12 +1810,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 75.45189504373178%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 75.42745481191989%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">94%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 4.548104956268221%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.572545188080117%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                     </div>
@@ -1823,7 +1823,7 @@
             </div>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Nov 2021, 14:48:53 (timezone Australia/Sydney) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 26 Nov 2021, 14:54:55 (timezone Australia/Sydney) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

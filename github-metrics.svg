@@ -1810,30 +1810,30 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 72.54388764762209%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">91%</span>
+                            <div class="bar" style="width: 66.02870813397129%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">83%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 4.315352697095436%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
+                            <div class="bar" style="width: 8.086124401913876%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">10%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.017235876157038%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <div class="bar" style="width: 3.7799043062200957%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 1.1235237791254389%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
+                            <div class="bar" style="width: 2.1052631578947367%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
                         </div>
                     </div>
                 </section>
             </div>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Dec 2021, 14:54:20 (timezone Australia/Sydney) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 24 Dec 2021, 15:00:37 (timezone Australia/Sydney) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

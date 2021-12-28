@@ -50,7 +50,8 @@ By the way, there are tons of servers I own but are not listed here! The sad thi
 
 #### Online Projects
 
-- [Cordviews](https://www.cordviews.tk/): An unique Discord listing service with tons of features using new Discord technology
+- [Modslides](https://modslides.netlify.app/): Learn and discuss online moderation for your Discord servers, online forums, and more!
+- [Cordviews](https://www.cordviews.tk/): A Discord platform to find servers with trusted reviews, and trusted feedback for server admins.
 
 ### Social Platforms
 
@@ -98,4 +99,6 @@ Show/hide metrics
 </summary>
 
 ![Metrics](https://github.com/GodderE2D/GodderE2D/blob/main/github-metrics.svg)
+  
+###### Metrics updates every 5 minutes, however, may not always be up-to-date due to GitHub Actions.
 </details>

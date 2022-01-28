@@ -8,16 +8,6 @@ He/Him | 🇦🇺
 
 **For more information, please check out my [website](https://www.godder.xyz).**
 
-### Advertisement
-
-Have time? Please check out [Wolvesville Utopium](https://wolvesville.utopium.xyz), a simulation game based off [Wolvesville](https://app.wolvesville.com), an online party game.
-
-However, Wolvesville Utopium is fully simulated on Discord! You can play with your friends at anytime, anywhere soon™!
-
-It's currently dead right now, so if you could check it out, it would mean a lot to me, and the developers, staff, and members there! Thanks a lot 😊
-
-###### Disclaimer: Not a paid promotion
-
 <details>
 <summary>
 Show/hide additional resources

@@ -19,7 +19,7 @@ jobs:
           user: GodderE2D
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Australia/Sydney
+          config_timezone: America/New_York
           config_twemoji: yes
           plugin_habits: yes
           plugin_habits_charts: yes

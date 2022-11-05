@@ -1,94 +1,57 @@
-# [[GodderE2D]](https://www.godder.xyz)
+<h1 align="center">
+  <img width="38" height="38" align="center" style="width: 38; height: 38;" src="https://raw.githubusercontent.com/GodderE2D/GodderE2D/main/G%20PFP%20v2%20Rounded.png"></img>
+  &nbsp;Hey there, I'm GodderE2D!
+</h1>
 
-**The god of the god. Nice to meet you! I'm just a person on the internet trying to figure out what to do.**
+<p align="center">
+  <strong><a href="https://www.godder.xyz/">Website</a></strong>・<strong><a href="https://twitter.com/TheE2D">Twitter</a></strong>・<strong><a href="mailto:main@godder.xyz">Email</a></strong>
+</p>
 
-Sydney, Australia ➜ VA, United States (current)
+Mostly everyone calls me Godder online, if you know my real name you can call me that. Just not around with people who don't know[…](https://en.wikipedia.org/wiki/Doxing)
 
-## Resources
+My old Discord account, [GodderE2D]#7290, was disabled by Discord due to violation of ToS. [Learn more.](https://gist.github.com/GodderE2D/f24263df5b9e932805ccc2db04709726)
 
-**For more information, please check out my [website](https://www.godder.xyz).**
+## About me
+
+I'm a mostly self-taught developer and I'm on GitHub to host my own projects and to contribute to other open-source technologies. I usually code in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), and learning [Ruby](https://www.ruby-lang.org/), and blazingly-fast [Rust](https://www.rust-lang.org/).
+
+I was born in Sydney, Australia 🇦🇺 but I currently reside in Virginia, United States 🇺🇸. I also lived in Shanghai, China 🇨🇳 where most of my life took place. I'll tell you one thing, I'm not twenty yet. I play a lot of video games too, including [VALORANT](https://playvalorant.com/) ([my tracker.gg](https://tracker.gg/valorant/profile/riot/GodderE2D%23ruby/overview)) and [Fortnite](https://www.epicgames.com/fortnite/en-US/home) with over 1,000 hours each.
+
+I'm mostly a web developer and a Discord bot-developer refugee, but I'm also experimenting with game dev (mostly [UE5](https://www.unrealengine.com/en-US/unreal-engine-5)). You can mostly find me on [Discord](https://discord.com) online in the [discord.js server](https://discord.gg/djs) and [Y0ken's Domain](https://discord.gg/BmNGZW2).
+
+<a href="https://discord.com/users/972742287291449365">
+  <img align="right" alt="[GodderE2D]#7290 Discord Presence" src="https://lanyard.cnrad.dev/api/972742287291449365?idleMessage=A%20void%20of%20emptiness%E2%80%A6">
+  </img>
+</a>
 
 <details>
 <summary>
-Show/hide additional resources
+  Learn more about me
 </summary>
 
-### Email Addresses
+## My projects
 
-Dedicated to the people that would like to email me for some reason.
+I'm working on [Modslides](https://github.com/modslides), which is an online moderation documentation and glorified forum. I like to contribute to my friends' projects too, such as [Disploy](https://github.com/Disploy). Some of my side projects are [quickpostgres](https://github.com/GodderE2D/quickpostgres), [Athena but better](https://github.com/GodderE2D/athena-but-better), and [my website](https://github.com/GodderE2D/godder.xyz).
 
-ℹ️ Response time: ~24 hours | max 48 hours
+## Let's work together!
 
-- main@godder.xyz: Used for all contact with an online relationship, such as social platforms
-- irl@godder.xyz: Used for contact if I met you in real life
-- support@godder.xyz: Used for online support if a social platform is not the best for support
-- ama@godder.xyz: Ask me anything! I'll reply to you with an answer (if appropriate)
-- godderseesyou@gmail.com: Use this email address if the main one is not working
-- e2dbusiness@outlook.com: YouTube business email
+I'm not looking for new non-paid collaborative work for now, but you can hire me! I don't really have any certifications, but my GitHub and [my website](https://www.godder.xyz) are some resources. I'm semi-proficient in JavaScript/TypeScript, React/Next.js, and I know a lot about the technical aspects of Discord. So Discord bots and websites are my comfort zone.
 
-### Online Projects
+### Ruby references
 
-If you would like to check out my work, feel free to do so!  
-By the way, there are tons of servers I own but are not listed here! The sad thing is, they are not finished and have near-zero members.
-
-#### Discord Servers
-
-- [Sunrise to Sunset](https://www.sunrisetosunset.tk/): An overall chill Discord server
-- [CentralBotSupport](https://www.cbsupport.tk/): A Discord server with the goal of getting Discord bot support easier
-- [#AdvertiseOn](https://twitter.com/AO_Discord): A Discord server with a community and a lot of advertising features
-- TheMeGaming: A Discord server with a great gaming community (discontinued)
-
-#### Online Projects
-
-- [Modslides](https://modslides.netlify.app/): Learn and discuss online moderation for your Discord servers, online forums, and more!
-- [Cordviews](https://www.cordviews.tk/): A Discord platform to find servers with trusted reviews, and trusted feedback for server admins.
-
-### Social Platforms
-
-I'm on a lot of these. I just realised that...
-
-- Discord: [GodderE2D]#7290 (`525248423310524416`) [\(dsc.bio\)](https://dsc.bio/godder)
-- [Twitter](https://twitter.com/TheE2D): @TheE2D
-- [Instagram](https://instagram.com/thee2d): @thee2d
-- [YouTube](https://www.youtube.com/@TheE2D): [GodderE2D]
-- [Reddit](https://reddit.com/u/_-GODDERE2D-_): \_-GODDERE2D-\_
-- [Spotify](https://open.spotify.com/user/8hkx6ip5bkeqbhw0xlb0a9gdp): GodderE2D
-- [Steam](https://steamcommunity.com/id/goddere2d): GodderE2D
-- [Twitch](https://twitch.tv/GodderE2D): GodderE2D
-- [Medium](https://goddere2d.medium.com): GodderE2D
-- [GitHub](https://github.com/GodderE2D): GodderE2D
-
-### Recommendations
-
-ℹ️ I am not affiliated or sponsored by any of these services. This is purely recommendations and you do not need to use them.
-
-#### Discord Servers
-
-- [Y0ken's Domain](https://discord.gg/BmNGZW2): Best Discord server for great games and guides, including Discord help\*
-- [Wolvesville Utopium](https://wolvesville.utopium.xyz/): A simulation of Wolvesville, completely in Discord
-
-###### \* I had been a staff member in Y0ken&apos;s Domain, therefore my review may be slightly biased.
-
-#### Discord Bots
-
-- [Dyno](https://dyno.gg/): Best multipurpose Discord bot to start out with, if you have some experience on Discord
-- [MEE6](https://mee6.xyz/): Best multipurpose Discord bot to start out with, if you have little-to-no experience on Discord
-- [Statbot](https://statbot.net/): A Discord bot for server statistics and insights
-- [Ticket Tool](https://tickettool.xyz): A Discord bot for ticketing, could be used for staff tickets, help tickets, etc
-- [AmariBot](https://amaribot.com/): Best levelling bot that includes role levels, customisable XP, etc
-- [Santa Lunar](https://forum.lunarisx.com/): A Discord bot for advanced giveaways with customisable requirements and features
-- [Xenon](https://xenon.bot/): Best Discord server backup bot if you do not prefer server templates with tons of advanced features
-
-###### **All of the above** offers a premium subscription, however, I am reviewing the free tier of the service.
-
+You might hear me reference rubies a lot. Well, rubies are my favourite gemstones. Is there more to that? Truly a mystery.
 </details>
 
 <details>
 <summary>
-Show/hide metrics
+GitHub metrics
 </summary>
 
 ![Metrics](https://github.com/GodderE2D/GodderE2D/blob/main/github-metrics.svg)
   
 ###### Metrics updates every 5 minutes, however, may not always be up-to-date due to GitHub Actions.
 </details>
+
+Thanks for checking out my GitHub profile[!](https://en.wikipedia.org/wiki/Stalking)
+
+###### All views are my own and are opinions. Not professional advice. Please do not use automated means to contact me.

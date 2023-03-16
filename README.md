@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong><a href="https://www.godder.xyz/">Website</a></strong>・<strong><a href="https://twitter.com/TheE2D">Twitter</a></strong>・<strong><a href="mailto:main@godder.xyz">Email</a></strong>・<strong>a.k.a. azugodder</strong>
+  <strong><a href="https://www.godder.xyz/">Website</a></strong>・<strong><a href="https://twitter.com/TheE2D">Twitter</a></strong>・<strong><a href="mailto:main@godder.xyz">Email</a></strong>・<strong>a.k.a. azugodder, azu4</strong>
 </p>
 
 Mostly everyone calls me Godder online, if you know my real name you can call me that. Just not around with people who don't know[…](https://en.wikipedia.org/wiki/Doxing)

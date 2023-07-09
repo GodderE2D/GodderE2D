@@ -15,12 +15,12 @@ My old Discord account, [GodderE2D]#7290, was disabled by Discord due to violati
 
 I'm a mostly self-taught developer and I'm on GitHub to host my own projects and to contribute to other open-source technologies. I usually code in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), and learning [Ruby](https://www.ruby-lang.org/), and blazingly-fast [Rust](https://www.rust-lang.org/).
 
-I was born in Sydney, Australia 🇦🇺 but I currently reside in Virginia, United States 🇺🇸. I also lived in Shanghai, China 🇨🇳 where most of my life took place. I'll tell you one thing, I'm not twenty yet. I play a lot of video games too, including [VALORANT](https://playvalorant.com/) ([my tracker.gg](https://tracker.gg/valorant/profile/riot/GodderE2D%23ruby/overview)), [Fortnite](https://www.epicgames.com/fortnite/en-US/home), and [Minecraft](https://www.minecraft.net/en-us) ([my NameMC](https://namemc.com/profile/azu4.3)).
+I was born in Sydney, Australia 🇦🇺 but I currently reside in Virginia, United States 🇺🇸. I also lived in Shanghai, China 🇨🇳 where most of my life took place. I'll tell you one thing, I'm not twenty yet. I play a lot of video games too, including [VALORANT](https://playvalorant.com/) ([my tracker.gg](https://tracker.gg/valorant/profile/riot/GodderE2D%23ruby/overview)), [Fortnite](https://www.epicgames.com/fortnite/en-US/home), and [Minecraft](https://www.minecraft.net/en-us) ([my NameMC](https://namemc.com/profile/28b0a9f9-65c1-450b-abeb-da9bf3d5830a)).
 
-I'm mostly a web developer and a Discord bot-developer refugee, but I'm also experimenting with game dev (mostly [UE5](https://www.unrealengine.com/en-US/unreal-engine-5)). You can mostly find me on [Discord](https://discord.com) online in the [discord.js server](https://discord.gg/djs) and [Y0ken's Domain](https://discord.gg/BmNGZW2).
+I'm mostly a web developer and a Discord bot developer, but I'm also experimenting with game dev (mostly [UE5](https://www.unrealengine.com/en-US/unreal-engine-5)). You can mostly find me on [Discord](https://discord.com) online on my own server, [Blue Shark River](https://discord.gg/R2FDvcPXTK). I'm also active in [discord.js](https://discord.gg/djs) and [Y0ken's Domain](https://discord.gg/BmNGZW2).
 
 <a href="https://discord.com/users/972742287291449365">
-  <img align="right" alt="[GodderE2D]#7290 Discord Presence" src="https://lanyard.cnrad.dev/api/972742287291449365?idleMessage=A%20void%20of%20emptiness%E2%80%A6">
+  <img align="right" alt="thee2d Discord Presence" src="https://lanyard.cnrad.dev/api/972742287291449365?idleMessage=A%20void%20of%20emptiness%E2%80%A6">
   </img>
 </a>
 
@@ -31,7 +31,9 @@ I'm mostly a web developer and a Discord bot-developer refugee, but I'm also exp
 
 ## My projects
 
-I'm working on [Modslides](https://github.com/modslides), which is an online moderation documentation and glorified forum. I like to contribute to my friends' projects too, such as [Disploy](https://github.com/Disploy). Some of my side projects are [quickpostgres](https://github.com/GodderE2D/quickpostgres), [Athena but better](https://github.com/GodderE2D/athena-but-better), and [my website](https://github.com/GodderE2D/godder.xyz).
+Right now, I'm focusing on Blue Shark River and Fortalice SMP, which is a semi-technical Minecraft SMP. You can join our Discord server [here](https://discord.gg/R2FDvcPXTK), and our [Planet Minecraft](https://www.planetminecraft.com/server/fortalice-smp-1-19-friendly-smp/) link.
+
+I'm also working on [Modslides](https://github.com/modslides), which is an online moderation documentation and glorified forum. I like to contribute to my friends' projects too, such as [Disploy](https://github.com/Disploy). Some of my side projects are [quickpostgres](https://github.com/GodderE2D/quickpostgres), [Athena but better](https://github.com/GodderE2D/athena-but-better), and [my website](https://github.com/GodderE2D/godder.xyz).
 
 ## Let's work together!
 

@@ -29,7 +29,7 @@ My projects
 - [**Godder.xyz**](https://github.com/GodderE2D/godder.xyz): my website built with Next.js and Tailwind CSS
 - [**Tristan SMP**](https://github.com/TristanSMP/gateway): website for Tristan SMP with applications and a marketplace
 - [**Disploy**](https://github.com/Disploy/disploy): guide and documentation for Disploy, a Discord API library
-- [**Advent of Code write-ups**](https://github.com/GodderE2D/advent-of-code): code, thoughts, and walkthroughts on Advent of Code puzzles
+- [**Advent of Code write-ups**](https://github.com/GodderE2D/advent-of-code): code, thoughts, and walkthroughs on Advent of Code puzzles
 - [**Athena but better**](https://github.com/GodderE2D/athena-but-better): a web AI chatbot powered by OpenAI’s GPT-3
 - [**Nothing To Abstract**](https://github.com/GodderE2D/Nothing-To-Abstract): a simple sandbox server creation and eval Discord bot
 

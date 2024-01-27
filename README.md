@@ -21,7 +21,7 @@ I was born in Sydney, Australia but I currently reside in Virginia, United State
 My projects
 </summary>
 
-#### [🔗 Learn more about my projects](https://godder.xyz/projects)
+Here are some of the notable projects that I made or contributed to, but you can find more in my [GitHub repositories](https://github.com/GodderE2D?tab=repositories).
 
 - [**Reindeer**](https://github.com/GodderE2D/Reindeer): a reports/moderation/security Discord bot used in over 150 servers and protecting 60,000+ users
 - [**Fortalice SMP**](https://discord.gg/R2FDvcPXTK): a Minecraft server with custom plugins and membership system
@@ -29,9 +29,11 @@ My projects
 - [**Godder.xyz**](https://github.com/GodderE2D/godder.xyz): my website built with Next.js and Tailwind CSS
 - [**Tristan SMP**](https://github.com/TristanSMP/gateway): website for Tristan SMP with applications and a marketplace
 - [**Disploy**](https://github.com/Disploy/disploy): guide and documentation for Disploy, a Discord API library
+<!--
 - [**Advent of Code write-ups**](https://github.com/GodderE2D/advent-of-code): code, thoughts, and walkthroughs on Advent of Code puzzles
 - [**Athena but better**](https://github.com/GodderE2D/athena-but-better): a web AI chatbot powered by OpenAI’s GPT-3 engine
 - [**Nothing To Abstract**](https://github.com/GodderE2D/Nothing-To-Abstract): a simple sandbox server creation and eval Discord bot
+-->
 
 </details>
 

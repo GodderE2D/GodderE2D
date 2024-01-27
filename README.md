@@ -30,7 +30,7 @@ My projects
 - [**Tristan SMP**](https://github.com/TristanSMP/gateway): website for Tristan SMP with applications and a marketplace
 - [**Disploy**](https://github.com/Disploy/disploy): guide and documentation for Disploy, a Discord API library
 - [**Advent of Code write-ups**](https://github.com/GodderE2D/advent-of-code): code, thoughts, and walkthroughs on Advent of Code puzzles
-- [**Athena but better**](https://github.com/GodderE2D/athena-but-better): a web AI chatbot powered by OpenAI’s GPT-3
+- [**Athena but better**](https://github.com/GodderE2D/athena-but-better): a web AI chatbot powered by OpenAI’s GPT-3 engine
 - [**Nothing To Abstract**](https://github.com/GodderE2D/Nothing-To-Abstract): a simple sandbox server creation and eval Discord bot
 
 </details>

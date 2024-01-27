@@ -1,37 +1,38 @@
-<h1 align="center">
-  <img width="38" height="38" align="center" style="width: 38; height: 38;" src="https://raw.githubusercontent.com/GodderE2D/GodderE2D/main/G%20PFP%20v2%20Rounded.png"></img>
-  &nbsp;Hey there, I'm GodderE2D!
-</h1>
+# Hey there 👋
 
-<p align="center">
-  <strong><a href="https://godder.xyz/">Website</a></strong>・<strong><a href="https://twitter.com/TheE2D">Twitter</a></strong>・<strong><a href="mailto:main@godder.xyz">Email</a></strong>・<strong>a.k.a. thee2d, azugodder, azu4</strong>
-</p>
+<strong><a href="https://godder.xyz/">Website</a></strong>・<strong><a href="https://twitter.com/TheE2D">Twitter</a></strong>・<strong><a href="mailto:main@godder.xyz">Email</a></strong>・<strong>a.k.a. thee2d, azugodder, azu4</strong>
 
 Mostly everyone calls me Godder online, if you know my real name you can call me that. Just not around with people who don't know[…](https://en.wikipedia.org/wiki/Doxing)
 
 ## About me
 
-I'm a self-taught developer on GitHub to host my projects and contribute to other open-source ones. I usually code in [TypeScript](https://www.typescriptlang.org/) and have interests in Discord bots, web dev, and technical Minecraft.
+I'm a self-taught developer and I showcase my projects and contribute to open source on GitHub. I usually code in TypeScript or Java and have interests in Discord bots, web dev, and technical Minecraft.
 
-I was born in Sydney, Australia but I currently reside in Virginia, United States for school. I play a lot of video games, like [VALORANT](https://tracker.gg/valorant/profile/riot/GodderE2D%23ruby/overview), [Minecraft](https://namemc.com/profile/28b0a9f9-65c1-450b-abeb-da9bf3d5830a), Fortnite, and more. You can find me on Discord as `thee2d` in servers like [Blue Shark River](https://discord.gg/R2FDvcPXTK), [discord.js](https://discord.gg/djs), and [Y0ken's Domain](https://discord.gg/BmNGZW2).
+I was born in Sydney, Australia but I currently reside in Virginia, United States for school. I play games like Fortnite, Minecraft, VALORANT and more in my free time. You can find me on Discord as GodderE2D or thee2d in servers like [Blue Shark River](https://discord.gg/R2FDvcPXTK), [discord.js](https://discord.gg/djs), [CyberStudents](https://discord.gg/cyberstudents) and [Y0ken's Domain](https://discord.gg/BmNGZW2).
 
-<a href="https://discord.com/users/972742287291449365">
-  <img align="right" alt="thee2d Discord Presence" src="https://lanyard.cnrad.dev/api/972742287291449365?idleMessage=A%20void%20of%20emptiness%E2%80%A6">
-  </img>
+<a align="right" href="https://discord.com/users/972742287291449365">
+  <img align="right" alt="thee2d Discord Profile" src="https://lanyard.cnrad.dev/api/972742287291449365?hideActivity=true"></img>
 </a>
+
+🌏 Also, check out [my website](https://godder.xyz/) to learn about my professional experience and blogs.
 
 <details>
 <summary>
-  Learn more about me
+My projects
 </summary>
 
-## My projects
+#### [🔗 Learn more about my projects](https://godder.xyz/projects)
 
-Right now, I'm focusing on [Blue Shark River](https://discord.gg/R2FDvcPXTK) with my Discord bot [Reindeer](https://reindeer.bsr.gg/) and [Fortalice SMP](https://www.planetminecraft.com/server/fortalice-smp-1-19-friendly-smp/). I was also working on [Modslides](https://github.com/modslides), which is an online moderation documentation and glorified forum.
+- [**Reindeer**](https://github.com/GodderE2D/Reindeer): a reports/moderation/security Discord bot used in over 150 servers and protecting 60,000+ users
+- [**Fortalice SMP**](https://discord.gg/R2FDvcPXTK): a Minecraft server with custom plugins and membership system
+- [**Blue Shark River**](https://discord.gg/R2FDvcPXTK): an alliance for growing developer and gaming-oriented projects
+- [**Godder.xyz**](https://github.com/GodderE2D/godder.xyz): my website built with Next.js and Tailwind CSS
+- [**Tristan SMP**](https://github.com/TristanSMP/gateway): website for Tristan SMP with applications and a marketplace
+- [**Disploy**](https://github.com/Disploy/disploy): guide and documentation for Disploy, a Discord API library
+- [**Advent of Code write-ups**](https://github.com/GodderE2D/advent-of-code): code, thoughts, and walkthroughts on Advent of Code puzzles
+- [**Athena but better**](https://github.com/GodderE2D/athena-but-better): a web AI chatbot powered by OpenAI’s GPT-3
+- [**Nothing To Abstract**](https://github.com/GodderE2D/Nothing-To-Abstract): a simple sandbox server creation and eval Discord bot
 
-## Ruby references
-
-You might hear me reference rubies a lot. Well, rubies are my favourite gemstones. Is there more to that? Truly a mystery.
 </details>
 
 <details>
@@ -41,7 +42,7 @@ GitHub metrics
 
 ![Metrics](https://github.com/GodderE2D/GodderE2D/blob/main/github-metrics.svg)
   
-<sup>Metrics updates every 5 minutes, however, may not always be up-to-date due to GitHub Actions.</sup>
+<sup>Metrics updates every 5 minutes.</sup>
 </details>
 
 Thanks for checking out my GitHub profile[!](https://en.wikipedia.org/wiki/Stalking)

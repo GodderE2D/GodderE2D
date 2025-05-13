@@ -8,7 +8,7 @@ Mostly everyone calls me Godder online, if you know my real name you can call me
 
 I'm mostly a self-taught developer and I showcase my projects and contribute to open source on GitHub. I usually code in TypeScript or Java and have interests in Discord bots, web dev, technical Minecraft, and cybersecurity.
 
-I was born in Sydney, Australia but I currently reside in Virginia, United States for school. I play games like Fortnite, Minecraft, VALORANT and more in my free time. You can find me on Discord as GodderE2D or thee2d in servers like [Blue Shark River](https://discord.gg/R2FDvcPXTK), [discord.js](https://discord.gg/djs), [CyberStudents](https://discord.gg/cyberstudents-916144903686336513) and [Y0ken's Domain](https://discord.gg/BmNGZW2).
+I was born in Sydney, Australia but I currently reside in Virginia, United States for school. I play games like Fortnite, Minecraft, VALORANT and more in my free time. You can find me on Discord as GodderE2D or thee2d in servers like [CyberStudents](https://discord.gg/cyberstudents-916144903686336513).
 
 <a align="right" href="https://discord.com/users/972742287291449365">
   <img align="right" alt="thee2d Discord Profile" src="https://lanyard.cnrad.dev/api/972742287291449365?hideActivity=true"></img>

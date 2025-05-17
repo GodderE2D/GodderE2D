@@ -23,7 +23,7 @@ My projects
 
 Here are some of the notable projects that I made or contributed to, but you can find more in my [GitHub repositories](https://github.com/GodderE2D?tab=repositories).
 
-- [**Reindeer**](https://github.com/GodderE2D/Reindeer): a reports/moderation/security Discord bot used in over 400 servers and protecting 700k+ users
+- [**Reindeer**](https://github.com/GodderE2D/Reindeer): a reports/moderation/security Discord bot used in over 500 servers and protecting 1M+ users
 - [**Fortalice SMP**](https://discord.gg/R2FDvcPXTK): a Minecraft server with custom plugins and membership system
 - [**CyberStudents CTF**](https://github.com/cyberstudentsacademy/cyberstudents-ctf): a Discord bot to manage CTF challenges in the CyberStudents server
 - [**Godder.xyz**](https://github.com/GodderE2D/godder.xyz): my website built with Next.js and Tailwind CSS

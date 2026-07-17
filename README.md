@@ -40,6 +40,7 @@ Other than all that, here are some of the other notable projects that I made or 
 - [**Fortalice SMP**](https://discord.gg/R2FDvcPXTK): a Minecraft server with custom plugins and membership system
 - [**Tristan SMP**](https://github.com/TristanSMP/gateway): website for the Tristan SMP Minecraft server with applications and a marketplace
 - [**Gemtype**](https://github.com/GodderE2D/gemtype): a prototype multiplayer typing test game wbesite using websockets
+- [**Athena but better**](https://github.com/GodderE2D/athena-but-better): web-based chatbot using OpenAI GPT-3 made before ChatGPT's release
 - Various small utility npm packages like [**quickpostgres**](https://github.com/GodderE2D/quickpostgres)
 - I've also contributed to the open source [**discord.js**](https://github.com/discordjs) library and documentation while I was working on Discord bots
 

@@ -44,7 +44,7 @@ Other than all that, here are some of the other notable projects that I made or 
 - Various small utility npm packages like [**quickpostgres**](https://github.com/GodderE2D/quickpostgres)
 - I've also contributed to the open source [**discord.js**](https://github.com/discordjs) library and documentation while I was working on Discord bots
 
-<sup>_I also want to briefly note that a majority of these projects were made before the advent of generative AI for coding! With that in mind, I'm also excited to see how these new tools can be used responsibly and safely now._</sup>
+<sup>I also want to briefly note that a majority of these projects were made before the advent of generative AI for coding! With that in mind, I'm also excited to see how these new tools can be used responsibly and safely now.</sup>
 
 </details>
 
@@ -55,7 +55,7 @@ GitHub metrics
 
 ![Metrics](https://github.com/GodderE2D/GodderE2D/blob/main/github-metrics.svg)
   
-<sup>Metrics update every 5 minutes.</sup>
+<sup>Metrics update every 5 minutes. Did you know that this repository has over [240,000 commits](https://github.com/GodderE2D/GodderE2D)? 😅</sup>
 </details>
 
 Thanks for checking out my GitHub profile[!](https://en.wikipedia.org/wiki/Stalking)

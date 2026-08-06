@@ -27,7 +27,7 @@ The most notable bot I developed was [**Reindeer**](https://github.com/GodderE2D
 
 After this, I dived into web dev with React/Next.js and Tailwind CSS a lot more and overhauled [**my website**](https://github.com/GodderE2D/godder.xyz). Though, my main project nowadays is the website for [**CyberStudents**](https://cyberstudents.net/), which features a full player and admin interface for capture-the-flag (CTF) cybersecurity competitions, as well as many (beautifully designed) marketing pages.
 
-With cybersecurity and the CyberStudents community I co- and re-founded, I've made many [**cybersecurity puzzles/challenges**](https://github.com/cyberstudentsfoundation/csd-ctf) that have overlap with web development and security. Additionally, CyberStudents has hosted a month-long CTF competition called [**Advent of CTF**](https://github.com/cyberstudentsfoundation/Advent-of-CTF) offering many prizes and harder challenges. 
+With cybersecurity and the CyberStudents community I co- and re-founded, I've made many [**cybersecurity puzzles/challenges**](https://github.com/cyberstudentsfoundation/csd-ctf) that have overlap with web development and security. Additionally, CyberStudents has hosted two month-long CTF competitions called [**Advent of CTF**](https://github.com/cyberstudentsfoundation/Advent-of-CTF), offering many prizes and harder challenges. 
 
 <img width="1410" height="1079" alt="CyberStudents Advent of CTF 2025" src="https://github.com/user-attachments/assets/63235b1d-acaf-418d-8588-2ce0a661ea8d" />
 

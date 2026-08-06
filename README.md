@@ -55,7 +55,7 @@ GitHub metrics
 
 ![Metrics](https://github.com/GodderE2D/GodderE2D/blob/main/github-metrics.svg)
   
-<sup>Metrics updates every 5 minutes.</sup>
+<sup>Metrics update every 5 minutes.</sup>
 </details>
 
 Thanks for checking out my GitHub profile[!](https://en.wikipedia.org/wiki/Stalking)

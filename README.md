@@ -21,7 +21,7 @@ My projects
 
 Around 2019, I started my (real) development journey when I got interested in developing Discord bots, which can be turned into a powerful yet simple interface to develop apps for many users.
 
-The most notable bot I developed was [**Reindeer**](https://github.com/GodderE2D/Reindeer), which focused on moderation/security and allowed Discord communities to easily handle reports from members. While development has mostly been paused, it is still running today and is used in over 600 communities and is protecting over [1.2 million users](https://reindeer.bsr.gg/metrics) online.
+The most notable bot I developed was [**Reindeer**](https://github.com/GodderE2D/Reindeer), which focused on moderation/security and allowed Discord communities to easily handle reports from members. While development has mostly been paused, it is still running today and is used in over 600 communities and is protecting over [1.3 million users](https://reindeer.bsr.gg/metrics) online.
 
 <img width="3990" height="1650" alt="Reindeer Discord bot showcase" src="https://github.com/user-attachments/assets/9fadf987-000f-4291-91dd-78aff3cf8d93" />
 
@@ -37,7 +37,7 @@ Other than all that, here are some of the other notable projects that I made or 
 
 - [**My Advent of Code write-ups**](https://github.com/GodderE2D/advent-of-code): code, thoughts, and walkthroughs on Advent of Code puzzles
 - [**CyberStudents CTF Discord bot**](https://github.com/cyberstudentsacademy/cyberstudents-ctf): a Discord bot to manage CTF challenges in the CyberStudents server
-- [**Fortalice SMP**](https://discord.gg/R2FDvcPXTK): a Minecraft server with custom plugins and membership system
+- [**Fortalice SMP**](https://discord.gg/R2FDvcPXTK): a Minecraft server with custom [plugins](https://github.com/GodderE2D/fortify) and membership system
 - [**Tristan SMP**](https://github.com/TristanSMP/gateway): website for the Tristan SMP Minecraft server with applications and a marketplace
 - [**Gemtype**](https://github.com/GodderE2D/gemtype): a prototype multiplayer typing test game website using websockets
 - [**Athena but better**](https://github.com/GodderE2D/athena-but-better): web-based chatbot using OpenAI GPT-3 made before ChatGPT's release
